@@ -15,7 +15,8 @@
                 <category android:name="android.intent.category.LAUNCHER" />
             </intent-filter>
         </activity>
-        <activity android:name=".preference.PreferenceActivity"></activity>
+        <activity android:name=".preference.PreferenceActivity" />
+        <activity android:name=".realm.RealmActivity" />
     </application>
 
 </manifest>
